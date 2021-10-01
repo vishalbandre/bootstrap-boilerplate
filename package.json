@@ -1,0 +1,25 @@
+{
+    "name": "bootstrap-boilerplate",
+    "version": "1.0.0",
+    "description": "Bootstrap boilerplate to start from.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/vishalbandre/bootstrap-boilerplate.git"
+    },
+    "keywords": [
+        "Bootstrap",
+        "Boilerplate",
+        "Bootstrap",
+        "Boilerplate"
+    ],
+    "author": "Vishal Bandre",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/vishalbandre/bootstrap-boilerplate/issues"
+    },
+    "homepage": "https://github.com/vishalbandre/bootstrap-boilerplate#readme"
+}
